@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"DISABLE, MAIN DOOR, TOP DOOR",TestPoint_2Pads_Pitch2.54mm_Drill0.8mm,3,SW_Reed,
+GND,TestPoint_Pad_2.0x2.0mm,1,GND,
+R1,0603,1,10k,
+R2,TestPoint_2Pads_Pitch2.54mm_Drill0.8mm,1,FSR,
+U2,SOT-23,1,MCP1700x-330xxTT,
+U3,TP4056-18650,1,~,
+VBAT (+),TestPoint_Pad_2.0x2.0mm,1,BAT,
